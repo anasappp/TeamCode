@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_back.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_back_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_blue.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_default.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_green.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_light.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_light_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_orange.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_purple.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_theme.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_theme_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_theme_half_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_theme_pale.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_btn_theme_pale_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_circle_back.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_circle_line.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_circle_theme.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_cursor.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_dialog_popup.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_edit_bot.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_edit_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_edit_code.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_edit_search.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_edit_top.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_gray_circular.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/bg_head_circle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_image.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_italic.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_link.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_ol.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_redo.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_title.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_ul.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/editor_undo.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_bot.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_bot_dash.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_both.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_right.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_top.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/drawable/line_top_light.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_circle_diary_see.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_circle_photo_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_circle_photo_see.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_collection.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_empty.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_follow_list.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_register.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_account.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_code.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_identify.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_login.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_phone.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_setting_setup.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_diary.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_diary_add.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_history.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_history_map.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_map.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_sport_punch.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_consul_expert.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_consult_add.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_consult_home.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_consult_see.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_group_search.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_question_add.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_square_question_see.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_video_list.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_web.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_anonymous_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_circle_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_image_add.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_label_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_match_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/dialog_pay_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_circle.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_circle_post.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_explore.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_item_like.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_item_reply.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_mine.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_sport.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_sport_diary.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_sport_step.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_sport_time.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_consult.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_group.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_match.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_question.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_question_add1.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/fragment_square_question_add2.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/item_explore_recy.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_circle_diary_item.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_circle_photo_item.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_image_add_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_item_like_item.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_item_reply_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_diary_item.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_history_header.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_history_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_punch_header.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_punch_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_sport_school_rank_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_expert_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_header.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_home_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_see_header.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_consult_see_item.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_group_header.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_group_item.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_question_header.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/layout/view_square_question_item.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/ASUS/Desktop/WeiDong/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

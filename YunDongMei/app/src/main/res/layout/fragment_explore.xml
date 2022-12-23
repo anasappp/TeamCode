@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/bg_white"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/top_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorTheme">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="发现"
+            android:layout_marginBottom="@dimen/space_15dp"
+            android:textColor="@color/colorLight"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/top_toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <top.limuyang2.shadowlayoutlib.ShadowLinearLayout
+                android:id="@+id/shadowlinear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/space_10dp"
+                android:layout_marginBottom="@dimen/space_10dp"
+                android:layout_marginTop="@dimen/space_10dp"
+                android:layout_marginRight="@dimen/space_10dp"
+                android:background="@color/bg_white"
+                android:orientation="horizontal"
+                app:l_radius="@dimen/space_3dp"
+                app:l_shadowAlpha="0.8"
+                app:l_shadowElevation="@dimen/space_5dp">
+
+                <com.youth.banner.Banner
+                    android:id="@+id/home_banner"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    app:banner_default_image="@mipmap/ic_launcher_round"
+                    app:indicator_drawable_selected="@drawable/bg_theme_circular"
+                    app:indicator_drawable_unselected="@drawable/bg_gray_circular"
+                    app:indicator_height="5dp"
+                    app:indicator_margin="5dp"
+                    app:indicator_width="5dp"
+                    app:is_auto_play="true" />
+            </top.limuyang2.shadowlayoutlib.ShadowLinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:textSize="@dimen/font_size_15sp"
+                android:paddingTop="@dimen/space_5dp"
+                android:paddingBottom="@dimen/space_5dp"
+                android:textColor="@color/color_text_black"
+                android:text="精彩视频"
+                android:gravity="center"
+                />
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/gray4"
+                />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/exploreRefreshBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|start"
+        android:layout_marginLeft="17dp"
+        android:layout_marginBottom="30dp"
+        android:src="@mipmap/btn_refresh"
+        app:fabSize="mini" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/exploreHomeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|start"
+        android:layout_marginLeft="17dp"
+        android:layout_marginBottom="35dp"
+        android:src="@mipmap/btn_home"
+        android:visibility="gone"
+        app:fabSize="mini" />
+</RelativeLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.RegisterActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/settingCodeExitBtn"
+            android:src="@mipmap/btn_back"
+            android:contentDescription="@null"
+            android:padding="20dp"
+            android:layout_width="55dp"
+            android:layout_height="55dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注册"
+            android:id="@+id/center_title"
+            android:layout_centerInParent="true"
+            android:textColor="@color/text_black"
+            android:layout_gravity="center"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_margin="30dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <EditText
+            android:id="@+id/phone_edit"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:maxLength="11"
+            android:textSize="15sp"
+            android:maxLines="1"
+            android:inputType="phone"
+            android:hint="手机号"
+            android:background="@drawable/bg_edit_circle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/pwd_edit"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:maxLength="18"
+            android:maxLines="1"
+            android:textSize="15sp"
+            android:inputType="textPassword"
+            android:hint="请输入密码"
+            android:background="@drawable/bg_edit_circle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/check_edit"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:layout_marginTop="10dp"
+            android:maxLength="18"
+            android:textSize="15sp"
+            android:maxLines="1"
+            android:inputType="textPassword"
+            android:hint="请再次输入密码"
+            android:background="@drawable/bg_edit_circle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/settingPhoneGoBtn"
+            android:text="注册"
+            android:textSize="15sp"
+            android:textColor="@color/colorLight"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/bg_btn_theme_circle"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
